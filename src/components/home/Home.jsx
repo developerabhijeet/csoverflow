@@ -10,7 +10,7 @@ const Home = () => {
 			</div>
 			<div className="row features">
 				<div className="div-img">
-					<img src={web} alt="home image" />
+					<img src={web} alt="home" />
 				</div>
 				<ul className="collection list with-header">
 					<li className="collection-header">

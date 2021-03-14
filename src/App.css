@@ -1,0 +1,82 @@
+
+
+
+.logo{
+  width:auto;
+  height: 55px;
+
+}
+
+.logo-footer{
+  width:auto;
+  height: 55px;
+  align-items: center;
+}
+.div-text{
+  width: auto;
+  padding:90px;
+  height: auto;
+  border: solid 1px #ccc;
+  display: 'inline-block';
+  text-align: justify;
+}
+.signup-image{
+  margin-top: 150px;
+}
+.login-image{
+width: 490px;
+}
+
+/*
+.signup-image{
+  transform: rotateY(180deg);
+height: 600px;
+    animation: rotation 2s infinite linear;
+}
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+.signup-image{
+  bottom: 15%;
+  position: absolute;
+  animation: linear infinite;
+  animation-name: run;
+  animation-duration: 5s;
+}
+@keyframes run {
+  0% {
+    left: 0;
+  }
+  50% { 
+    left: calc(100% - 10px); 
+   }
+  100% {
+    left:0;     
+  }
+}*/
+ .div-img{
+  width:100px;
+  height: 100px;
+  display: 'inline-block';
+  align-items: center;
+  margin-left: 150px;
+ } 
+
+.form{
+  margin-top:40px;
+ width: auto;
+}
+.btn-center{
+  margin-left: 550px;
+  margin-right: auto;
+  width:120px;
+  height: 55px;
+}
+.features{
+  padding: 50px;
+}

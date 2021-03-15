@@ -18,7 +18,7 @@ const Login = () => {
 				</div>
 
 
-				<button className="btn btn-center orange darken-2">LOGIN</button>
+				<button className="btn btn-left orange darken-2">LOGIN</button>
 			</form>
 			<div>
 				

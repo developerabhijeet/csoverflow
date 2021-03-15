@@ -63,7 +63,7 @@ const Signup = () => {
 						<label htmlFor="dob">Date of Birth</label>
 					</div>
 				</div>
-				<button className="btn btn-center orange darken-2">SIGNUP</button>
+				<button className="btn btn-left orange darken-2">SIGNUP</button>
 			</form>
 			<div>
 				
